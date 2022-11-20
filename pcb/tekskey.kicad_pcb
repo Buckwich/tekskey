@@ -309,7 +309,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 06a06959-c9a0-4648-9aa7-4db012851acb)
-    (at 76.2 38.1 180)
+    (at 76.2 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -1203,7 +1203,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 24cebe1e-a2c4-4833-81c7-6d1bc7151983)
-    (at 57.15 42.8625 180)
+    (at 57.15 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -1381,7 +1381,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 266f5faf-28c0-41ad-a19b-88de18884b3d)
-    (at 104.775 42.8625 180)
+    (at 104.775 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -1560,7 +1560,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 2afe97c5-d4f4-41ba-8b86-431ab1b02ac2)
-    (at 47.625 42.8625 180)
+    (at 47.625 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -1649,7 +1649,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 3219a447-5d90-4ded-81ca-00ca55c886eb)
-    (at 123.825 38.1 180)
+    (at 123.825 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -1828,7 +1828,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 3e7bccbf-b4bf-4051-af5f-088b2ebe1c56)
-    (at 85.725 38.1 180)
+    (at 85.725 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -2363,7 +2363,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 4f2c7d09-8a6a-4baa-9164-5c29d286a091)
-    (at 85.725 42.8625 180)
+    (at 85.725 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -2632,7 +2632,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 5b5b75d6-980b-4690-abca-de6bb51ae9dd)
-    (at 47.625 38.1 180)
+    (at 47.625 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -2901,7 +2901,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" (layer "F.Cu")
     (tedit 5A3EABFC) (tstamp 5fc6dcc9-f3af-444f-9398-26484787f440)
-    (at 142.875 33.3375)
+    (at 142.875 28.575)
     (descr "SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -3022,7 +3022,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 6a00e105-4c3b-46fb-87d0-ee559905176a)
-    (at 114.3 42.8625 180)
+    (at 114.3 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -3200,7 +3200,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 752676dc-a508-460b-bdb8-60a2a38636fd)
-    (at 66.675 42.8625 180)
+    (at 66.675 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -3468,7 +3468,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 83299fb5-2a96-416f-aaaa-6f578074c1d5)
-    (at 66.675 38.1 180)
+    (at 66.675 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -3828,7 +3828,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 9209c05d-7e08-40b1-8809-aa741d4ba796)
-    (at 133.35 42.8625 180)
+    (at 133.35 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -4007,7 +4007,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp 92b58ffc-7633-43f9-b2c9-22d20aa9fecd)
-    (at 142.875 42.8625 180)
+    (at 142.875 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -4275,7 +4275,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp 9e9e71c3-5521-42d5-9c88-5f2a490a3454)
-    (at 114.3 38.1 180)
+    (at 114.3 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -4365,7 +4365,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp a49ca3fe-f66a-46ea-9e31-03acdd3027b8)
-    (at 76.2 42.8625 180)
+    (at 76.2 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -4454,7 +4454,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp a4ae30d3-b297-4a22-b4a4-097382d4771e)
-    (at 142.875 38.1 180)
+    (at 142.875 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -4544,7 +4544,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp a62c0735-c473-405a-bfde-77b52a901e72)
-    (at 123.825 42.8625 180)
+    (at 123.825 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -4633,7 +4633,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp a804b778-fcf3-4769-b32a-33d03d24bf27)
-    (at 57.15 38.1 180)
+    (at 57.15 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -4723,7 +4723,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp ac7712f9-8ae4-4a8a-9a21-5cdec6a5bacc)
-    (at 104.775 38.1 180)
+    (at 104.775 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -5082,7 +5082,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp b64e8733-1574-422a-bb78-892213581556)
-    (at 95.25 38.1 180)
+    (at 95.25 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -6155,7 +6155,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tedit 622261E9) (tstamp e1d6a3b1-389d-4763-91af-dd9bdb560b88)
-    (at 133.35 38.1 180)
+    (at 133.35 33.3375 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "tekskey.kicad_sch")
@@ -6692,7 +6692,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "F.Cu")
     (tedit 6298CFE2) (tstamp efbb8dc1-9fc7-40af-9412-6bbf540f18fe)
-    (at 95.25 42.8625 180)
+    (at 95.25 38.1 180)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "tekskey.kicad_sch")
     (property "Sheetname" "")
@@ -7497,6 +7497,6 @@
     )
   )
 
-  (gr_rect (start 33.3375 28.575) (end 157.1625 152.4) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 5e566b6a-c6df-4564-8778-9703061c6bda))
+  (gr_rect (start 33.3375 23.8125) (end 157.1625 147.6375) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 5e566b6a-c6df-4564-8778-9703061c6bda))
 
 )
