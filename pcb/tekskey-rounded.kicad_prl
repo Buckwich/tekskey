@@ -20,9 +20,9 @@
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": true,
+      "pads": false,
       "text": false,
-      "tracks": false,
+      "tracks": true,
       "vias": false,
       "zones": false
     },
@@ -66,7 +66,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "tekskey.kicad_prl",
+    "filename": "tekskey-rounded.kicad_prl",
     "version": 3
   },
   "project": {
