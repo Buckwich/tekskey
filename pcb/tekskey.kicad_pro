@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -429,6 +429,10 @@
     [
       "a231f19c-9810-42e9-b096-9f222cc1aab4",
       ""
+    ],
+    [
+      "240c3b79-73c3-47cf-bc72-20d9d8907b46",
+      "Num"
     ]
   ],
   "text_variables": {}
