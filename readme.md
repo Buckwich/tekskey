@@ -29,3 +29,57 @@ TODO
 ### PCB Design
 
 TODO
+
+### Pull submodules
+
+```
+git submodule update --init --remote --recursive
+```
+
+https://raw.githubusercontent.com/ebastler/ebastler-KiCad-repository/main/repository.json
+
+grid {
+"name": "MX U 1/32",
+"x": "0.5953125",
+"y": "0.5953125"
+},
+{
+"name": "MX U 1/24",
+"x": "0.79375",
+"y": "0.79375"
+},
+{
+"name": "MX U 1/16",
+"x": "1.190625",
+"y": "1.190625"
+},
+{
+"name": "MX U 1/8",
+"x": "2.38125",
+"y": "2.38125"
+},
+{
+"name": "MX U 1/4",
+"x": "4.7625",
+"y": "4.7625"
+},
+{
+"name": "MX U 1/2",
+"x": "9.525",
+"y": "9.525"
+},
+{
+"name": "MX U 1",
+"x": "19.05",
+"y": "19.05"
+},
+
+TODO
+
+check mcu mirroring
+
+reroute edges
+
+document lib use
+
+find custom buckwich
